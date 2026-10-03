@@ -1,0 +1,68 @@
+port_name = "V-Control Midi Mode"
+
+[controls."dcommand/main/transport/play"]
+label = "Play / Pause"
+description = "Toggles playback in Apple Music"
+type = "cc"
+cc = 21
+channel = 3
+mode = "toggle"
+triggers = [
+    { type = "applescript", command = 'tell application "Music" to playpause' }
+]
+
+[controls."dcommand/main/transport/stop"]
+label = "Stop"
+description = "Pauses playback and resets Play LED"
+type = "cc"
+cc = 22
+channel = 3
+mode = "momentary"
+triggers = [
+    { type = "applescript", command = 'tell application "Music" to pause' },
+    { type = "set_toggle", target = "dcommand/main/transport/play", state = false }
+]
+
+[controls."dcommand/main/transport/rewind"]
+label = "Rewind"
+description = "Rewinds track by 10 seconds"
+type = "cc"
+cc = 24
+channel = 3
+mode = "momentary"
+triggers = [
+    { type = "applescript", command = 'tell application "Music" to set player position to (player position - 10)' }
+]
+
+[controls."dcommand/main/transport/fastforward"]
+label = "Fast Forward"
+description = "Fast-forwards track by 10 seconds"
+type = "cc"
+cc = 25
+channel = 3
+mode = "momentary"
+triggers = [
+    { type = "applescript", command = 'tell application "Music" to set player position to (player position + 10)' }
+]
+
+[controls."dcommand/main/transport/rtz"]
+label = "Previous Track (RTZ)"
+description = "Skips to the previous track"
+type = "cc"
+cc = 26
+channel = 3
+mode = "momentary"
+triggers = [
+    { type = "applescript", command = 'tell application "Music" to previous track' }
+]
+
+[controls."dcommand/main/transport/gte"]
+label = "Next Track (GTE)"
+description = "Skips to the next track"
+type = "cc"
+cc = 27
+channel = 3
+mode = "momentary"
+triggers = [
+    { type = "applescript", command = 'tell application "Music" to next track' }
+]

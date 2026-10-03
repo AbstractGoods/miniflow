@@ -1,0 +1,432 @@
+v 3.0.12,,Number,Channel
+dcommand/main/mixer/strips/0/track/meter/0,cc,60,1
+dcommand/main/mixer/strips/0/track/meter/1,cc,61,1
+dcommand/main/mixer/strips/0/track/encoder/0/knob,cc,5,1
+dcommand/main/mixer/strips/0/track/encoder/0/select,cc,8,1
+dcommand/main/mixer/strips/0/track/encoder/0/bmp,cc,9,1
+dcommand/main/mixer/strips/0/track/encoder/1/knob,cc,6,1
+dcommand/main/mixer/strips/0/track/encoder/1/select,cc,10,1
+dcommand/main/mixer/strips/0/track/encoder/1/bmp,cc,11,1
+dcommand/main/mixer/strips/0/track/pagedn,cc,12,1
+dcommand/main/mixer/strips/0/track/pageup,cc,13,1
+dcommand/main/mixer/strips/0/track/insert,cc,14,1
+dcommand/main/mixer/strips/0/track/pan,cc,15,1
+dcommand/main/mixer/strips/0/track/bypmute,cc,16,1
+dcommand/main/mixer/strips/0/track/send,cc,17,1
+dcommand/main/mixer/strips/0/track/input,cc,4,1
+dcommand/main/mixer/strips/0/track/record,cc,2,1
+dcommand/main/mixer/strips/0/track/select,cc,3,1
+dcommand/main/mixer/strips/0/track/solo,cc,1,1
+dcommand/main/mixer/strips/0/track/mute,cc,0,1
+dcommand/main/mixer/strips/0/track/fader,cc,7,1
+dcommand/main/mixer/strips/0/track/autoselect,cc,18,1
+dcommand/main/mixer/strips/0/track/autotrim,cc,19,1
+dcommand/main/mixer/strips/1/track/meter/0,cc,60,2
+dcommand/main/mixer/strips/1/track/meter/1,cc,61,2
+dcommand/main/mixer/strips/1/track/encoder/0/knob,cc,5,2
+dcommand/main/mixer/strips/1/track/encoder/0/select,cc,8,2
+dcommand/main/mixer/strips/1/track/encoder/0/bmp,cc,9,2
+dcommand/main/mixer/strips/1/track/encoder/1/knob,cc,6,2
+dcommand/main/mixer/strips/1/track/encoder/1/select,cc,10,2
+dcommand/main/mixer/strips/1/track/encoder/1/bmp,cc,11,2
+dcommand/main/mixer/strips/1/track/pagedn,cc,12,2
+dcommand/main/mixer/strips/1/track/pageup,cc,13,2
+dcommand/main/mixer/strips/1/track/insert,cc,14,2
+dcommand/main/mixer/strips/1/track/pan,cc,15,2
+dcommand/main/mixer/strips/1/track/bypmute,cc,16,2
+dcommand/main/mixer/strips/1/track/send,cc,17,2
+dcommand/main/mixer/strips/1/track/input,cc,4,2
+dcommand/main/mixer/strips/1/track/record,cc,2,2
+dcommand/main/mixer/strips/1/track/select,cc,3,2
+dcommand/main/mixer/strips/1/track/solo,cc,1,2
+dcommand/main/mixer/strips/1/track/mute,cc,0,2
+dcommand/main/mixer/strips/1/track/fader,cc,7,2
+dcommand/main/mixer/strips/1/track/autoselect,cc,18,2
+dcommand/main/mixer/strips/1/track/autotrim,cc,19,2
+dcommand/main/mixer/strips/2/track/meter/0,cc,60,3
+dcommand/main/mixer/strips/2/track/meter/1,cc,61,3
+dcommand/main/mixer/strips/2/track/encoder/0/knob,cc,5,3
+dcommand/main/mixer/strips/2/track/encoder/0/select,cc,8,3
+dcommand/main/mixer/strips/2/track/encoder/0/bmp,cc,9,3
+dcommand/main/mixer/strips/2/track/encoder/1/knob,cc,6,3
+dcommand/main/mixer/strips/2/track/encoder/1/select,cc,10,3
+dcommand/main/mixer/strips/2/track/encoder/1/bmp,cc,11,3
+dcommand/main/mixer/strips/2/track/pagedn,cc,12,3
+dcommand/main/mixer/strips/2/track/pageup,cc,13,3
+dcommand/main/mixer/strips/2/track/insert,cc,14,3
+dcommand/main/mixer/strips/2/track/pan,cc,15,3
+dcommand/main/mixer/strips/2/track/bypmute,cc,16,3
+dcommand/main/mixer/strips/2/track/send,cc,17,3
+dcommand/main/mixer/strips/2/track/input,cc,4,3
+dcommand/main/mixer/strips/2/track/record,cc,2,3
+dcommand/main/mixer/strips/2/track/select,cc,3,3
+dcommand/main/mixer/strips/2/track/solo,cc,1,3
+dcommand/main/mixer/strips/2/track/mute,cc,0,3
+dcommand/main/mixer/strips/2/track/fader,cc,7,3
+dcommand/main/mixer/strips/2/track/autoselect,cc,18,3
+dcommand/main/mixer/strips/2/track/autotrim,cc,19,3
+dcommand/main/mixer/strips/3/track/meter/0,cc,60,4
+dcommand/main/mixer/strips/3/track/meter/1,cc,61,4
+dcommand/main/mixer/strips/3/track/encoder/0/knob,cc,5,4
+dcommand/main/mixer/strips/3/track/encoder/0/select,cc,8,4
+dcommand/main/mixer/strips/3/track/encoder/0/bmp,cc,9,4
+dcommand/main/mixer/strips/3/track/encoder/1/knob,cc,6,4
+dcommand/main/mixer/strips/3/track/encoder/1/select,cc,10,4
+dcommand/main/mixer/strips/3/track/encoder/1/bmp,cc,11,4
+dcommand/main/mixer/strips/3/track/pagedn,cc,12,4
+dcommand/main/mixer/strips/3/track/pageup,cc,13,4
+dcommand/main/mixer/strips/3/track/insert,cc,14,4
+dcommand/main/mixer/strips/3/track/pan,cc,15,4
+dcommand/main/mixer/strips/3/track/bypmute,cc,16,4
+dcommand/main/mixer/strips/3/track/send,cc,17,4
+dcommand/main/mixer/strips/3/track/input,cc,4,4
+dcommand/main/mixer/strips/3/track/record,cc,2,4
+dcommand/main/mixer/strips/3/track/select,cc,3,4
+dcommand/main/mixer/strips/3/track/solo,cc,1,4
+dcommand/main/mixer/strips/3/track/mute,cc,0,4
+dcommand/main/mixer/strips/3/track/fader,cc,7,4
+dcommand/main/mixer/strips/3/track/autoselect,cc,18,4
+dcommand/main/mixer/strips/3/track/autotrim,cc,19,4
+dcommand/main/mixer/strips/4/track/meter/0,cc,60,5
+dcommand/main/mixer/strips/4/track/meter/1,cc,61,5
+dcommand/main/mixer/strips/4/track/encoder/0/knob,cc,5,5
+dcommand/main/mixer/strips/4/track/encoder/0/select,cc,8,5
+dcommand/main/mixer/strips/4/track/encoder/0/bmp,cc,9,5
+dcommand/main/mixer/strips/4/track/encoder/1/knob,cc,6,5
+dcommand/main/mixer/strips/4/track/encoder/1/select,cc,10,5
+dcommand/main/mixer/strips/4/track/encoder/1/bmp,cc,11,5
+dcommand/main/mixer/strips/4/track/pagedn,cc,12,5
+dcommand/main/mixer/strips/4/track/pageup,cc,13,5
+dcommand/main/mixer/strips/4/track/insert,cc,14,5
+dcommand/main/mixer/strips/4/track/pan,cc,15,5
+dcommand/main/mixer/strips/4/track/bypmute,cc,16,5
+dcommand/main/mixer/strips/4/track/send,cc,17,5
+dcommand/main/mixer/strips/4/track/input,cc,4,5
+dcommand/main/mixer/strips/4/track/record,cc,2,5
+dcommand/main/mixer/strips/4/track/select,cc,3,5
+dcommand/main/mixer/strips/4/track/solo,cc,1,5
+dcommand/main/mixer/strips/4/track/mute,cc,0,5
+dcommand/main/mixer/strips/4/track/fader,cc,7,5
+dcommand/main/mixer/strips/4/track/autoselect,cc,18,5
+dcommand/main/mixer/strips/4/track/autotrim,cc,19,5
+dcommand/main/mixer/strips/5/track/meter/0,cc,60,6
+dcommand/main/mixer/strips/5/track/meter/1,cc,61,6
+dcommand/main/mixer/strips/5/track/encoder/0/knob,cc,5,6
+dcommand/main/mixer/strips/5/track/encoder/0/select,cc,8,6
+dcommand/main/mixer/strips/5/track/encoder/0/bmp,cc,9,6
+dcommand/main/mixer/strips/5/track/encoder/1/knob,cc,6,6
+dcommand/main/mixer/strips/5/track/encoder/1/select,cc,10,6
+dcommand/main/mixer/strips/5/track/encoder/1/bmp,cc,11,6
+dcommand/main/mixer/strips/5/track/pagedn,cc,12,6
+dcommand/main/mixer/strips/5/track/pageup,cc,13,6
+dcommand/main/mixer/strips/5/track/insert,cc,14,6
+dcommand/main/mixer/strips/5/track/pan,cc,15,6
+dcommand/main/mixer/strips/5/track/bypmute,cc,16,6
+dcommand/main/mixer/strips/5/track/send,cc,17,6
+dcommand/main/mixer/strips/5/track/input,cc,4,6
+dcommand/main/mixer/strips/5/track/record,cc,2,6
+dcommand/main/mixer/strips/5/track/select,cc,3,6
+dcommand/main/mixer/strips/5/track/solo,cc,1,6
+dcommand/main/mixer/strips/5/track/mute,cc,0,6
+dcommand/main/mixer/strips/5/track/fader,cc,7,6
+dcommand/main/mixer/strips/5/track/autoselect,cc,18,6
+dcommand/main/mixer/strips/5/track/autotrim,cc,19,6
+dcommand/main/mixer/strips/6/track/meter/0,cc,60,7
+dcommand/main/mixer/strips/6/track/meter/1,cc,61,7
+dcommand/main/mixer/strips/6/track/encoder/0/knob,cc,5,7
+dcommand/main/mixer/strips/6/track/encoder/0/select,cc,8,7
+dcommand/main/mixer/strips/6/track/encoder/0/bmp,cc,9,7
+dcommand/main/mixer/strips/6/track/encoder/1/knob,cc,6,7
+dcommand/main/mixer/strips/6/track/encoder/1/select,cc,10,7
+dcommand/main/mixer/strips/6/track/encoder/1/bmp,cc,11,7
+dcommand/main/mixer/strips/6/track/pagedn,cc,12,7
+dcommand/main/mixer/strips/6/track/pageup,cc,13,7
+dcommand/main/mixer/strips/6/track/insert,cc,14,7
+dcommand/main/mixer/strips/6/track/pan,cc,15,7
+dcommand/main/mixer/strips/6/track/bypmute,cc,16,7
+dcommand/main/mixer/strips/6/track/send,cc,17,7
+dcommand/main/mixer/strips/6/track/input,cc,4,7
+dcommand/main/mixer/strips/6/track/record,cc,2,7
+dcommand/main/mixer/strips/6/track/select,cc,3,7
+dcommand/main/mixer/strips/6/track/solo,cc,1,7
+dcommand/main/mixer/strips/6/track/mute,cc,0,7
+dcommand/main/mixer/strips/6/track/fader,cc,7,7
+dcommand/main/mixer/strips/6/track/autoselect,cc,18,7
+dcommand/main/mixer/strips/6/track/autotrim,cc,19,7
+dcommand/main/mixer/strips/7/track/meter/0,cc,60,8
+dcommand/main/mixer/strips/7/track/meter/1,cc,61,8
+dcommand/main/mixer/strips/7/track/encoder/0/knob,cc,5,8
+dcommand/main/mixer/strips/7/track/encoder/0/select,cc,8,8
+dcommand/main/mixer/strips/7/track/encoder/0/bmp,cc,9,8
+dcommand/main/mixer/strips/7/track/encoder/1/knob,cc,6,8
+dcommand/main/mixer/strips/7/track/encoder/1/select,cc,10,8
+dcommand/main/mixer/strips/7/track/encoder/1/bmp,cc,11,8
+dcommand/main/mixer/strips/7/track/pagedn,cc,12,8
+dcommand/main/mixer/strips/7/track/pageup,cc,13,8
+dcommand/main/mixer/strips/7/track/insert,cc,14,8
+dcommand/main/mixer/strips/7/track/pan,cc,15,8
+dcommand/main/mixer/strips/7/track/bypmute,cc,16,8
+dcommand/main/mixer/strips/7/track/send,cc,17,8
+dcommand/main/mixer/strips/7/track/input,cc,4,8
+dcommand/main/mixer/strips/7/track/record,cc,2,8
+dcommand/main/mixer/strips/7/track/select,cc,3,8
+dcommand/main/mixer/strips/7/track/solo,cc,1,8
+dcommand/main/mixer/strips/7/track/mute,cc,0,8
+dcommand/main/mixer/strips/7/track/fader,cc,7,8
+dcommand/main/mixer/strips/7/track/autoselect,cc,18,8
+dcommand/main/mixer/strips/7/track/autotrim,cc,19,8
+dcommand/main/global/flip/0,cc,21,4
+dcommand/main/global/flip/1,cc,22,4
+dcommand/main/global/showval,cc,23,4
+dcommand/main/global/escape,cc,24,4
+dcommand/main/global/mode,cc,25,4
+dcommand/main/global/soloclear,cc,25,4
+dcommand/main/global/dotoselected,cc,26,4
+dcommand/main/global/dotoall,cc,27,4
+dcommand/main/global/default,cc,28,4
+dcommand/main/global/dispmode,cc,29,4
+dcommand/main/global/autosusp,cc,30,4
+dcommand/main/global/suspgrps,cc,31,4
+dcommand/main/autoenable/volume,cc,32,4
+dcommand/main/autoenable/pan,cc,33,4
+dcommand/main/autoenable/sendpan,cc,34,4
+dcommand/main/autoenable/mute,cc,35,4
+dcommand/main/autoenable/sendlevel,cc,36,4
+dcommand/main/autoenable/sendmute,cc,37,4
+dcommand/main/autoenable/plugin,cc,38,4
+dcommand/main/customfaders/groups,cc,40,4
+dcommand/main/customfaders/map,cc,41,4
+dcommand/main/customfaders/tracks,cc,42,4
+dcommand/main/customfaders/lock,cc,43,4
+dcommand/main/customfaders/plugin,cc,44,4
+dcommand/main/customfaders/window,cc,45,4
+dcommand/main/customfaders/bankcycle,cc,46,4
+dcommand/main/automode/write,cc,47,4
+dcommand/main/automode/read,cc,48,4
+dcommand/main/automode/touch,cc,49,4
+dcommand/main/automode/off,cc,50,4
+dcommand/main/automode/latch,cc,51,4
+dcommand/main/automode/trim,cc,52,4
+dcommand/main/output/meter/0,cc,62,1
+dcommand/main/output/meter/1,cc,62,2
+dcommand/main/output/meter/2,cc,62,3
+dcommand/main/output/meter/3,cc,62,4
+dcommand/main/output/meter/4,cc,62,5
+dcommand/main/output/meter/5,cc,62,6
+dcommand/main/output/meter/6,cc,62,7
+dcommand/main/output/meter/7,cc,62,8
+dcommand/main/dynamics/dyn1,cc,21,1
+dcommand/main/dynamics/dyn2,cc,22,1
+dcommand/main/dynamics/dyn3,cc,23,1
+dcommand/main/dynamics/dyn4,cc,24,1
+dcommand/main/dynamics/dyn5,cc,25,1
+dcommand/main/dynamics/dyn6,cc,26,1
+dcommand/main/dynamics/cycle,cc,39,1
+dcommand/main/dynamics/compare,cc,40,1
+dcommand/main/dynamics/window,cc,41,1
+dcommand/main/dynamics/auto,cc,42,1
+dcommand/main/dynamics/safe,cc,43,1
+dcommand/main/dynamics/extkey,cc,44,1
+dcommand/main/dynamics/listen,cc,45,1
+dcommand/main/dynamics/page,cc,37,1
+dcommand/main/dynamics/bypass,cc,38,1
+dcommand/main/eq/in1,cc,33,2
+dcommand/main/eq/in2,cc,34,2
+dcommand/main/eq/in3,cc,35,2
+dcommand/main/eq/in4,cc,36,2
+dcommand/main/eq/q1,cc,21,2
+dcommand/main/eq/q2,cc,22,2
+dcommand/main/eq/q3,cc,23,2
+dcommand/main/eq/q4,cc,24,2
+dcommand/main/eq/freq1,cc,25,2
+dcommand/main/eq/freq2,cc,26,2
+dcommand/main/eq/freq3,cc,27,2
+dcommand/main/eq/freq4,cc,28,2
+dcommand/main/eq/gain1,cc,29,2
+dcommand/main/eq/gain2,cc,30,2
+dcommand/main/eq/gain3,cc,31,2
+dcommand/main/eq/gain4,cc,32,2
+dcommand/main/eq/cycle,cc,39,2
+dcommand/main/eq/compare,cc,40,2
+dcommand/main/eq/window,cc,41,2
+dcommand/main/eq/auto,cc,42,2
+dcommand/main/eq/safe,cc,43,2
+dcommand/main/eq/lftype,cc,44,2
+dcommand/main/eq/hftype,cc,45,2
+dcommand/main/eq/page,cc,37,2
+dcommand/main/eq/bypass,cc,38,2
+dcommand/main/transport/play,cc,21,3
+dcommand/main/transport/stop,cc,22,3
+dcommand/main/transport/record,cc,23,3
+dcommand/main/transport/rewind,cc,24,3
+dcommand/main/transport/fastforward,cc,25,3
+dcommand/main/transport/rtz,cc,26,3
+dcommand/main/transport/gte,cc,27,3
+dcommand/main/transport/back,cc,28,3
+dcommand/main/transport/backandplay,cc,29,3
+dcommand/main/transport/instantplay,cc,30,3
+dcommand/main/transport/scrub,cc,31,3
+dcommand/main/transport/shuttle,cc,32,3
+dcommand/main/transport/trim,cc,33,3
+dcommand/main/transport/wheel,cc,34,3
+dcommand/main/transport/audition,cc,35,3
+dcommand/main/transport/preroll,cc,36,3
+dcommand/main/transport/markin,cc,37,3
+dcommand/main/transport/markout,cc,38,3
+dcommand/main/transport/postroll,cc,39,3
+dcommand/main/transport/ptonline,cc,40,3
+dcommand/main/transport/9pinremote,cc,41,3
+dcommand/main/transport/machineonline,cc,42,3
+dcommand/main/transport/loopplay,cc,43,3
+dcommand/main/transport/trackpunch,cc,44,3
+dcommand/main/transport/quickpunch,cc,45,3
+dcommand/main/transport/countermode/hmsms,cc,46,3
+dcommand/main/transport/countermode/hmsf,cc,47,3
+dcommand/main/transport/countermode/feetfrms,cc,48,3
+dcommand/main/transport/countermode/barsbeats,cc,49,3
+dcommand/main/transport/masterrec,cc,50,3
+dcommand/main/monitor/input/sum,cc,21,7
+dcommand/main/monitor/input/altsurr,cc,22,7
+dcommand/main/monitor/input/main,cc,23,7
+dcommand/main/monitor/input/stereo1,cc,24,7
+dcommand/main/monitor/input/stereo2,cc,25,7
+dcommand/main/monitor/input/stereo3,cc,26,7
+dcommand/main/monitor/input/alt,cc,27,7
+dcommand/main/monitor/input/mini,cc,28,7
+dcommand/main/monitor/input/main2,cc,29,7
+dcommand/main/monitor/cues/phones,cc,30,7
+dcommand/main/monitor/cues/cue1,cc,31,7
+dcommand/main/monitor/cues/cue2,cc,32,7
+dcommand/main/monitor/cues/studiols,cc,33,7
+dcommand/main/monitor/cues/afl,cc,34,7
+dcommand/main/monitor/cues/setsource,cc,35,7
+dcommand/main/monitor/cues/tb,cc,36,7
+dcommand/main/monitor/cues/on,cc,37,7
+dcommand/main/monitor/output/setup,cc,38,7
+dcommand/main/monitor/output/l,cc,39,7
+dcommand/main/monitor/output/ls,cc,40,7
+dcommand/main/monitor/output/c,cc,41,7
+dcommand/main/monitor/output/lfe,cc,42,7
+dcommand/main/monitor/output/r,cc,43,7
+dcommand/main/monitor/output/rs,cc,44,7
+dcommand/main/monitor/output/afl,cc,45,7
+dcommand/main/monitor/output/pfl,cc,46,7
+dcommand/main/monitor/output/solomute,cc,47,7
+dcommand/main/monitor/output/calibrated,cc,48,7
+dcommand/main/monitor/output/mono,cc,49,7
+dcommand/main/monitor/mode/dim,cc,50,7
+dcommand/main/monitor/mode/mute,cc,51,7
+dcommand/main/monitor/talkback/mic1,cc,52,7
+dcommand/main/monitor/talkback/mic2,cc,53,7
+dcommand/main/monitor/talkback/internal,cc,54,7
+dcommand/main/monitor/talkback/external,cc,55,7
+dcommand/main/monitor/talkback/auto,cc,56,7
+dcommand/main/monitor/input/knob,cc,57,7
+dcommand/main/monitor/cues/knob,cc,58,7
+dcommand/main/monitor/talkback/knob,cc,59,7
+dcommand/main/softkeys/key/0,cc,21,5
+dcommand/main/softkeys/key/1,cc,22,5
+dcommand/main/softkeys/key/2,cc,23,5
+dcommand/main/softkeys/key/3,cc,24,5
+dcommand/main/softkeys/key/4,cc,25,5
+dcommand/main/softkeys/key/5,cc,26,5
+dcommand/main/softkeys/snapshot,cc,27,5
+dcommand/main/softkeys/group,cc,28,5
+dcommand/main/softkeys/track,cc,29,5
+dcommand/main/softkeys/playlist,cc,30,5
+dcommand/main/softkeys/window,cc,31,5
+dcommand/main/softkeys/func1,cc,32,5
+dcommand/main/softkeys/func2,cc,33,5
+dcommand/main/softkeys/func3,cc,34,5
+dcommand/main/softkeys/editmodes,cc,35,5
+dcommand/main/softkeys/tools,cc,36,5
+dcommand/main/softkeys/memmidi/memloc,cc,37,5
+dcommand/main/softkeys/memmidi/midi,cc,38,5
+dcommand/main/softkeys/user,cc,39,5
+dcommand/main/softkeys/operation,cc,40,5
+dcommand/main/softkeys/meter,cc,41,5
+dcommand/main/softkeys/automatch,cc,42,5
+dcommand/main/softkeys/join,cc,43,5
+dcommand/main/softkeys/actions,cc,44,5
+dcommand/main/softkeys/automodes,cc,45,5
+dcommand/main/softkeys/utility,cc,46,5
+dcommand/main/softkeys/audiofiles,cc,47,5
+dcommand/main/softkeys/showhide,cc,48,5
+dcommand/main/softkeys/tracksizeup,cc,49,5
+dcommand/main/softkeys/tracksizedown,cc,50,5
+dcommand/main/navigation/zoompreset/1,cc,21,6
+dcommand/main/navigation/zoompreset/2,cc,22,6
+dcommand/main/navigation/zoompreset/3,cc,23,6
+dcommand/main/navigation/zoompreset/4,cc,24,6
+dcommand/main/navigation/zoompreset/5,cc,25,6
+dcommand/main/navigation/zoom,cc,26,6
+dcommand/main/navigation/navigate,cc,27,6
+dcommand/main/navigation/up,cc,28,6
+dcommand/main/navigation/down,cc,29,6
+dcommand/main/navigation/left,cc,30,6
+dcommand/main/navigation/right,cc,31,6
+dcommand/main/navigation/bank/left,cc,32,6
+dcommand/main/navigation/bank/right,cc,33,6
+dcommand/main/navigation/nudge/left,cc,34,6
+dcommand/main/navigation/nudge/right,cc,35,6
+dcommand/main/windows/mix,cc,36,6
+dcommand/main/windows/edit,cc,37,6
+dcommand/main/windows/transport,cc,38,6
+dcommand/main/windows/plugin,cc,39,6
+dcommand/main/windows/memloc,cc,40,6
+dcommand/main/windows/pan,cc,41,6
+dcommand/main/windows/workspace,cc,42,6
+dcommand/main/windows/midieventlist,cc,43,6
+dcommand/main/windows/micpre,cc,44,6
+dcommand/main/edit/publish,cc,45,6
+dcommand/main/edit/save,cc,46,6
+dcommand/main/edit/undo,cc,47,6
+dcommand/main/edit/redo,cc,48,6
+dcommand/main/modifiers/shift,cc,49,6
+dcommand/main/modifiers/control,cc,50,6
+dcommand/main/modifiers/option,cc,51,6
+dcommand/main/modifiers/command,cc,52,6
+,,,
+,,,
+,,Decimal,Hex
+sysex header,,"19,64,64,0,4","13,40,40,0,4"
+sysex address,,,
+dcommand/main/mixer/strips/0/track/encoder/0/scribble,sysex,5 1,05 01
+dcommand/main/mixer/strips/0/track/encoder/1/scribble,sysex,6 1,06 01
+dcommand/main/mixer/strips/0/track/name,sysex,7 1,07 01
+dcommand/main/mixer/strips/1/track/encoder/0/scribble,sysex,5 2,05 02
+dcommand/main/mixer/strips/1/track/encoder/1/scribble,sysex,6 2,06 02
+dcommand/main/mixer/strips/1/track/name,sysex,7 2,07 02
+dcommand/main/mixer/strips/2/track/encoder/0/scribble,sysex,5 3,05 03
+dcommand/main/mixer/strips/2/track/encoder/1/scribble,sysex,6 3,06 03
+dcommand/main/mixer/strips/2/track/name,sysex,7 3,07 03
+dcommand/main/mixer/strips/3/track/encoder/0/scribble,sysex,5 4,05 04
+dcommand/main/mixer/strips/3/track/encoder/1/scribble,sysex,6 4,06 04
+dcommand/main/mixer/strips/3/track/name,sysex,7 4,07 04
+dcommand/main/mixer/strips/4/track/encoder/0/scribble,sysex,5 5,05 05
+dcommand/main/mixer/strips/4/track/encoder/1/scribble,sysex,6 5,06 05
+dcommand/main/mixer/strips/4/track/name,sysex,7 5,07 05
+dcommand/main/mixer/strips/5/track/encoder/0/scribble,sysex,5 6,05 06
+dcommand/main/mixer/strips/5/track/encoder/1/scribble,sysex,6 6,06 06
+dcommand/main/mixer/strips/5/track/name,sysex,7 6,07 06
+dcommand/main/mixer/strips/6/track/encoder/0/scribble,sysex,5 7,05 07
+dcommand/main/mixer/strips/6/track/encoder/1/scribble,sysex,6 7,06 07
+dcommand/main/mixer/strips/6/track/name,sysex,7 7,07 07
+dcommand/main/mixer/strips/7/track/encoder/0/scribble,sysex,5 8,05 08
+dcommand/main/mixer/strips/7/track/encoder/1/scribble,sysex,6 8,06 08
+dcommand/main/mixer/strips/7/track/name,sysex,7 8,07 08
+dcommand/main/customfaders/focuschannel,sysex,4 39,04 27
+dcommand/main/dynamics/scribble,sysex,1 38,01 26
+dcommand/main/eq/scribble,sysex,2 38,02 26
+dcommand/main/softkeys/scribble/0,sysex,5 21,05 15
+dcommand/main/softkeys/scribble/1,sysex,5 22,05 16
+dcommand/main/softkeys/scribble/2,sysex,5 23,05 17
+dcommand/main/softkeys/scribble/3,sysex,5 24,05 18
+dcommand/main/softkeys/scribble/4,sysex,5 25,05 19
+dcommand/main/softkeys/scribble/5,sysex,5 26,05 1a
+dcommand/main/softkeys/scribble/6,sysex,5 27,05 1b
+dcommand/main/softkeys/scribble/7,sysex,5 28,05 1c
+dcommand/main/softkeys/scribble/8,sysex,5 29,05 1d
+dcommand/main/softkeys/scribble/9,sysex,5 30,05 1e
+dcommand/main/softkeys/scribble/10,sysex,5 31,05 1f
+dcommand/main/softkeys/scribble/11,sysex,5 32,05 20
